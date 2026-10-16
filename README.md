@@ -72,7 +72,7 @@ A restaurant website project built with HTML and CSS, using a custom layout, typ
 - **Technologies:** HTML, CSS
 
 <p align="center">
-  <a href="https://github.com/Arpanriju/Resturant-Website">
+  <a href="https://arpanriju.github.io/Resturant-Website/">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project repository" />
   </a>
 </p>
