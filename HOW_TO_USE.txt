@@ -1,0 +1,20 @@
+ARPAN MAL — GITHUB PROFILE README
+
+CONTENTS
+- README.md: copy this into the README.md of your profile repository.
+- assets/arpan-hero.svg: custom burgundy hero banner used by the README.
+
+HOW TO PUBLISH
+1. Open https://github.com/Arpanriju
+2. Create a PUBLIC repository named exactly: Arpanriju
+   (If that repository already exists, do not create another one. Edit its README.md.)
+3. Upload README.md and the assets folder, preserving the folder structure.
+4. Commit the changes, then open your GitHub profile to preview it.
+
+IMPORTANT
+- The profile repository name must match your GitHub username exactly.
+- Review all details and links before publishing.
+- The project and skill details are a starting draft based on information previously provided.
+- Add only verified achievements, certifications, statistics, and project claims.
+- GitHub may limit some SVG animation features, so the banner also has a static design.
+- Do not add passwords, tokens, or private information to a public repository.

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Arpan Mal — Aspiring Software Developer</title>
+  <desc id="desc">A dark burgundy developer banner with subtle animated accents and abstract code-inspired lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="55%" stop-color="#29101D"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E5B5C7" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#C77B9B" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#E5B5C7" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="65" r="145" fill="#701A3D" opacity=".23"/>
+  <circle cx="1090" cy="280" r="180" fill="#C77B9B" opacity=".08"/>
+  <path d="M770 0 C900 90 830 210 1020 340" fill="none" stroke="#C77B9B" stroke-opacity=".28" stroke-width="2">
+    <animate attributeName="stroke-opacity" values=".12;.5;.12" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M820 0 C950 100 890 230 1080 340" fill="none" stroke="#E5B5C7" stroke-opacity=".18" stroke-width="1.5"/>
+  <g fill="#E5B5C7" opacity=".6" font-family="monospace" font-size="15">
+    <text x="870" y="105">&lt;code /&gt;</text>
+    <text x="970" y="150">{ build: true }</text>
+    <text x="870" y="205">console.log("hello");</text>
+  </g>
+  <g transform="translate(76 78)">
+    <text x="0" y="0" fill="#E5B5C7" font-family="monospace" font-size="14" letter-spacing="4">DEVELOPER PROFILE</text>
+    <text x="0" y="78" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">ARPAN MAL</text>
+    <rect x="2" y="101" width="270" height="3" rx="1.5" fill="url(#shine)" filter="url(#glow)"/>
+    <text x="0" y="145" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="23">Aspiring Software Developer</text>
+    <text x="0" y="184" fill="#F8F0F3" opacity=".78" font-family="Arial, Helvetica, sans-serif" font-size="16">Frontend • Java • Learning by building</text>
+  </g>
+  <g fill="none" stroke="#C77B9B" stroke-width="2" opacity=".7">
+    <path d="M1110 58 l18 18 -18 18"/>
+    <path d="M1140 58 l18 18 -18 18"/>
+    <path d="M1082 250 h50 m-25 -25 v50"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="#C77B9B" stroke-opacity=".4"/>
+</svg>
