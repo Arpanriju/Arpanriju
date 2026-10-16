@@ -68,7 +68,7 @@
 
 A restaurant website project built with HTML and CSS, using a custom layout, typography, and visual styling.
 
-- **Repository:** [Resturant-Website](https://github.com/Arpanriju/Resturant-Website)
+- **Repository:** [Resturant-Website](https://arpanriju.github.io/Resturant-Website/)
 - **Technologies:** HTML, CSS
 
 <p align="center">
@@ -85,13 +85,6 @@ A restaurant website project built with HTML and CSS, using a custom layout, typ
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpanriju&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanriju&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpanriju&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-## 📈 GitHub Contribution Activity
-
-[![Arpan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arpanriju&theme=github-compact)](https://github.com/Arpanriju)
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Connect With Me
