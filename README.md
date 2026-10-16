@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/arpan-hero.svg" alt="Arpan Mal — Aspiring Software Developer" width="100%" />
+  <img src="./arpan-hero.svg" alt="Arpan Mal — Aspiring Software Developer" width="100%" />
 
   <h1>Hi, I'm Arpan Mal 👋</h1>
   <h3>Aspiring Software Developer | Frontend Development Enthusiast</h3>
