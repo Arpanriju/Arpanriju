@@ -68,7 +68,7 @@
 
 A restaurant website project built with HTML and CSS, using a custom layout, typography, and visual styling.
 
-- **Repository:** [Resturant-Website](https://arpanriju.github.io/Resturant-Website/)
+- **Repository:** [Resturant-Website](https://github.com/Arpanriju/Resturant-Website)
 - **Technologies:** HTML, CSS
 
 <p align="center">
