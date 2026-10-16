@@ -89,7 +89,9 @@ A restaurant website project built with HTML and CSS, using a custom layout, typ
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpanriju&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
+## 📈 GitHub Contribution Activity
 
+[![Arpan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arpanriju&theme=github-compact)](https://github.com/Arpanriju)
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Connect With Me
